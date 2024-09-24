@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fuwis.github.io/lal/sitemap.lal.gz
